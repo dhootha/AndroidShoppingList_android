@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Lethe Hangover</string>
+    <string name="title_activity_list_selection">list_selection</string>
+
+    <string name="list_selection_header">Maintained Lists</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_check_list">Check List</string>
+
+    <string name="add_item_prompt">Add an item</string>
+    <string name="add_item_button">Add</string>
+    <string name="title_activity_database_management">Database Management</string>
+
+    <string name="new_version_heading">Welcome to v2.0\nBuild 2</string>
+    <string name="new_version_changelog">What\'s new\nPEBBLE WATCH: v1.2 - Build 3\n- Added a new version screen.\n- Added a track that stops the watch pushing an update if an incoming message from the phone is dropped.\n- Fixed a bug where an item would have a black background when phone data was sent to watch\nANDROID APP: v2.0 - Build 2\n- Keyboard enter button now adds the item rather than inserting new line.\n- Added a new version screen.\n- Added clear all and uncheck all buttons to assist in list management.\n- Added a connection information message bar that will assist in determining when and what changes are occurring between the two devices over bluetooth.\n- Stopped timer services stacking, this will fix unusually short update times, and probable crashes.\n- Setup persistent storage to occur immediately following any changes, hopefully this will fix any saving issues upon app exit.</string>
+    <string name="contact_appreciation">Thanks for supporting development. I am a single developer and I appreciate your patience. Please contact me with any ideas or bugs you have.</string>
+
+    <string name="stored_list_items">ListItemsStored</string>
+    <string name="stored_list_status">ListStatusStored</string>
+    <string name="stored_lastCheckedItem">last_checked_item</string>
+    <string name="stored_commStatus">CommStatusStored</string>
+    <string name="stored_version">VersionNumberStored</string>
+
+    <!-- Ads stuff again -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <!-- Licensing stuff -->
+    <string name="allow">Licensed</string>
+    <string name="dont_allow">No license</string>
+    <string name="checking_license">Checking license</string>
+
+</resources>

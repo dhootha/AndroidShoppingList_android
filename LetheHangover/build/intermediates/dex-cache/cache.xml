@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Kurt\Dropbox\Programming\Android\Shopping_list_pebble_functionality\Android_project\LetheHangover\app\build\intermediates\exploded-aar\com.getpebble\pebblekit\3.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bd72bf60a6e56573eecb0e6abf419fac2b1fc1e6">
+        <dex dex="C:\Users\Kurt\Dropbox\Programming\Android\Shopping_list_pebble_functionality\Android_project\LetheHangover\app\build\intermediates\pre-dexed\debug\classes-20afb9d0218a05b219d6ded8ca263fbe7ddbf7fb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kurt\Dropbox\Programming\Android\Shopping_list_pebble_functionality\Android_project\LetheHangover\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Kurt\Dropbox\Programming\Android\Shopping_list_pebble_functionality\Android_project\LetheHangover\app\build\intermediates\pre-dexed\debug\classes-8afaabb0aff3889948d1cb7c27cff04174153577.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kurt\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Kurt\Dropbox\Programming\Android\Shopping_list_pebble_functionality\Android_project\LetheHangover\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-4c95f59f68abb886b8f10b2f384c221511e12a93.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kurt\Dropbox\Programming\Android\Shopping_list_pebble_functionality\Android_project\LetheHangover\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Kurt\Dropbox\Programming\Android\Shopping_list_pebble_functionality\Android_project\LetheHangover\app\build\intermediates\pre-dexed\debug\classes-672e5495d4b323cf72616b88bc936e03832e4915.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kurt\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient-android\4.3.5.1\eecbb0b998e77629862a13d957d552b3be58fc4e\httpclient-android-4.3.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="eecbb0b998e77629862a13d957d552b3be58fc4e">
+        <dex dex="C:\Users\Kurt\Dropbox\Programming\Android\Shopping_list_pebble_functionality\Android_project\LetheHangover\app\build\intermediates\pre-dexed\debug\httpclient-android-4.3.5.1-0817f7d6eb0f91ad407d06b3b476fca093458b96.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kurt\Dropbox\Programming\Android\Shopping_list_pebble_functionality\Android_project\LetheHangover\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Kurt\Dropbox\Programming\Android\Shopping_list_pebble_functionality\Android_project\LetheHangover\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-0f1253eec31c28b001c52fc86660675687b54748.jar" />
+    </item>
+
+</items>

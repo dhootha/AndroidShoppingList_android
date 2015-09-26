@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <CheckBox android:id="@+id/status_checkbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:textSize="12pt"
+        android:onClick="onCheckboxClickedHandler"/>
+
+    <ImageButton
+        android:id="@+id/item_remove_button"
+        android:layout_width="60dp"
+        android:layout_height="fill_parent"
+        android:contentDescription="@string/app_name"
+        android:onClick="removeItemHandler"
+        android:src="@android:drawable/ic_menu_delete" />
+
+</LinearLayout>

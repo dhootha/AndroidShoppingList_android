@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/new_version_layout">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/new_version_heading"
+        android:textSize="12pt"
+        android:gravity="center_horizontal"
+        android:id="@+id/newVerHeading"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:text="@string/new_version_changelog"
+        android:textSize="9pt"
+        android:gravity="left"
+        android:id="@+id/newVerSpiel"
+        android:layout_weight="1"
+        android:scrollbars="vertical"
+        android:scrollbarAlwaysDrawVerticalTrack="true"
+        android:fadeScrollbars="false"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:text="@string/contact_appreciation"
+        android:textSize="5pt"
+        android:gravity="center"/>
+
+    <Button
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:text="Ok"
+        android:id="@+id/newVer_okButton"
+        android:onClick="onNewVersionButtonClick"
+        android:layout_gravity="right"/>
+</LinearLayout>
